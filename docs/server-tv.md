@@ -22,7 +22,7 @@ A StageFlow a correr **dentro de uma TV Android**: a própria TV é o servidor, 
 3. Em **Definições › Apps › Segurança e restrições › Fontes desconhecidas**, autorize o **Downloader**.
 4. No Downloader, escreva o link da versão (está em [Releases](https://github.com/eventuais-software/stageflow/releases)) e escolha **Instalar**.
 
-**Atualizar:** instale a versão nova por cima. A programação, o PIN e a licença mantêm-se.
+**Atualizar:** a partir da versão 1.2.0, no menu da TV, em **Atualizações** (na primeira vez o Android pede para autorizar a app a instalar apps desconhecidas). Também pode instalar a versão nova por cima pelo Downloader. A programação, o PIN e a licença mantêm-se. Atualize fora de um espetáculo.
 
 ## Menu no comando
 
@@ -34,6 +34,7 @@ A StageFlow a correr **dentro de uma TV Android**: a própria TV é o servidor, 
 | Abrir logo em ecrã inteiro | Ao abrir, mostra logo a saída escolhida. |
 | PIN | Define o PIN do controlo móvel, com o teclado numérico do ecrã ou do comando. |
 | Licença | Mostra o ID da TV e o estado da licença. |
+| Atualizações | Mostra a versão instalada; se houver uma nova, **Atualizar** descarrega-a e o Android pede confirmação. |
 
 ## Requisitos
 

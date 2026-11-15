@@ -19,6 +19,8 @@ Servidor e consola principal da StageFlow, para Macs com Apple Silicon (M1 ou ma
 3. **Primeira abertura:** como a app não é distribuída pela App Store, o macOS pode bloqueá-la. Abra **Definições do Sistema › Privacidade e Segurança** e carregue em **Abrir mesmo assim**.
 4. Quando o macOS perguntar se a StageFlow pode receber ligações da rede, escolha **Permitir**.
 
+**Procurar atualizações:** a StageFlow verifica sozinha ao abrir e mostra um aviso na consola quando há versão nova. Também se verifica no menu **Procurar atualizações…**.
+
 **Atualizar:** feche a StageFlow e substitua a app na pasta Aplicações. A programação, os layouts, a licença e as definições ficam guardados e mantêm-se.
 
 ## Requisitos

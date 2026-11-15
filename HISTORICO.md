@@ -2,6 +2,9 @@
 
 ## StageFlow para Mac e Windows
 
+### 2.14.0
+- **Procurar atualizações:** verificação ao abrir, de 6 em 6 horas e no menu **Procurar atualizações…**. Aviso na consola e no cartão Licença, com **Descarregar** e **Novidades**. A instalação continua manual: nada se instala a meio de um espetáculo.
+
 ### 2.13.1
 - O cartão **Licença** mostra o produto e a versão instalada.
 - As licenças da Server TV usam o mesmo sistema da StageFlow.
@@ -37,6 +40,9 @@
 
 ## StageFlow Server TV
 
+### 1.2.0
+- Nova opção **Atualizações** no menu da TV: descarrega a versão nova e abre o instalador do Android. Na primeira vez é preciso autorizar a app a instalar apps desconhecidas.
+
 ### 1.1.1
 - Envia a versão instalada para o cartão Licença da consola.
 
@@ -47,6 +53,9 @@
 - Primeira versão: servidor StageFlow numa TV Android, consola no navegador, controlo móvel com PIN, OSC, arranque com a TV e saída em ecrã inteiro.
 
 ## StageFlow TV
+
+### 1.1.0
+- **Procurar atualizações** em Opções; quando há versão nova, **Atualizar** descarrega-a e abre o instalador do Android.
 
 ### 1.0.5
 - Com uma saída no ecrã, **Voltar** abre a lista de saídas do mesmo servidor.

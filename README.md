@@ -11,10 +11,10 @@ A StageFlow junta, num só sistema, a **programação de cada palco**, os **rel�
 
 | Aplicação | Para quê | Versão | Descarregar |
 |---|---|---|---|
-| **StageFlow para Mac** | Servidor e consola principal, saídas em ecrã e NDI | **2.13.1** | [StageFlow-Mac-2.13.1.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.13.1/StageFlow-Mac-2.13.1.zip) |
-| **StageFlow para Windows** | O mesmo que a versão Mac, em Windows 10 e 11 (versão de teste) | **2.13.1** | [StageFlow-Windows-2.13.1.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.13.1/StageFlow-Windows-2.13.1.zip) |
-| **StageFlow Server TV** | A própria TV Android é o servidor (sem computador) | **1.1.1** | [StageFlow-Server-TV-1.1.1.apk](https://github.com/eventuais-software/stageflow/releases/download/server-tv-1.1.1/StageFlow-Server-TV-1.1.1.apk) |
-| **StageFlow TV** | Mostra uma saída em ecrã inteiro numa TV Android ou Google TV | **1.0.5** | [StageFlow-TV-1.0.5.apk](https://github.com/eventuais-software/stageflow/releases/download/tv-1.0.5/StageFlow-TV-1.0.5.apk) |
+| **StageFlow para Mac** | Servidor e consola principal, saídas em ecrã e NDI | **2.14.0** | [StageFlow-Mac-2.14.0.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.14.0/StageFlow-Mac-2.14.0.zip) |
+| **StageFlow para Windows** | O mesmo que a versão Mac, em Windows 10 e 11 (versão de teste) | **2.14.0** | [StageFlow-Windows-2.14.0.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.14.0/StageFlow-Windows-2.14.0.zip) |
+| **StageFlow Server TV** | A própria TV Android é o servidor (sem computador) | **1.2.0** | [StageFlow-Server-TV-1.2.0.apk](https://github.com/eventuais-software/stageflow/releases/download/server-tv-1.2.0/StageFlow-Server-TV-1.2.0.apk) |
+| **StageFlow TV** | Mostra uma saída em ecrã inteiro numa TV Android ou Google TV | **1.1.0** | [StageFlow-TV-1.1.0.apk](https://github.com/eventuais-software/stageflow/releases/download/tv-1.1.0/StageFlow-TV-1.1.0.apk) |
 
 Todas as versões, com as notas de cada uma, estão em [Releases](https://github.com/eventuais-software/stageflow/releases). O que mudou em cada versão está no [Histórico de versões](HISTORICO.md).
 
@@ -50,7 +50,11 @@ A StageFlow é software da **Eventuais**. Sem licença, todas as aplicações fu
 
 ## Atualizações automáticas
 
-O ficheiro [`versoes.json`](versoes.json) indica a última versão de cada aplicação e o respetivo link. As aplicações podem consultá-lo para saber se há uma versão nova.
+O ficheiro [`versoes.json`](versoes.json) indica a última versão de cada aplicação e o respetivo link. As aplicações consultam-no para saber se há uma versão nova:
+- **Mac e Windows:** ao abrir, de 6 em 6 horas e no menu **Procurar atualizações…**. Aparece um aviso na consola com o link para descarregar.
+- **Server TV e StageFlow TV:** opção **Atualizações** no menu da TV. A TV descarrega a versão nova e o Android pede confirmação com o comando.
+
+As aplicações só leem este ficheiro público; não enviam dados do aparelho nem do espetáculo.
 
 ---
 
