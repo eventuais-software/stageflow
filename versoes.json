@@ -1,0 +1,31 @@
+{
+  "atualizado": "2026-11-15",
+  "produtos": {
+    "mac": {
+      "nome": "StageFlow para Mac",
+      "versao": "2.13.1",
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.13.1/StageFlow-Mac-2.13.1.zip",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.13.1"
+    },
+    "windows": {
+      "nome": "StageFlow para Windows",
+      "versao": "2.13.1",
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.13.1/StageFlow-Windows-2.13.1.zip",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.13.1"
+    },
+    "server-tv": {
+      "nome": "StageFlow Server TV",
+      "versao": "1.1.1",
+      "versionCode": 3,
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/server-tv-1.1.1/StageFlow-Server-TV-1.1.1.apk",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/server-tv-1.1.1"
+    },
+    "tv": {
+      "nome": "StageFlow TV",
+      "versao": "1.0.5",
+      "versionCode": 6,
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/tv-1.0.5/StageFlow-TV-1.0.5.apk",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/tv-1.0.5"
+    }
+  }
+}

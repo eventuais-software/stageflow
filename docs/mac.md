@@ -1,0 +1,28 @@
+# StageFlow para Mac
+
+Servidor e consola principal da StageFlow, para Macs com Apple Silicon (M1 ou mais recente).
+
+## O que faz
+
+- **Consola de operador:** programação por dia e por palco, modo automático ou manual, atrasos, mensagens para os ecrãs e projetos.
+- **Servidor da rede local:** os outros aparelhos abrem `http://IP-do-Mac:8080/` no navegador.
+- **Saídas:** Técnico, Backstage, Detalhado e saídas personalizadas, com editor de layout. Cada saída pode abrir numa janela, em ecrã inteiro noutro monitor ou como **fonte NDI**.
+- **Ecrãs ligados:** lista das TVs e navegadores que estão a mostrar uma saída. A saída de cada um muda-se à distância, com PIN.
+- **Controlo móvel** no telemóvel, com PIN.
+- **OSC** para mesas de luz, som e vídeo (porta 9000).
+- **Entradas de vídeo nos layouts:** fontes NDI e captura de ecrã.
+
+## Instalar
+
+1. Descarregue `StageFlow-Mac-<versão>.zip` em [Releases](https://github.com/eventuais-software/stageflow/releases) e descompacte-o.
+2. Arraste **StageFlow.app** para a pasta **Aplicações**.
+3. **Primeira abertura:** como a app não é distribuída pela App Store, o macOS pode bloqueá-la. Abra **Definições do Sistema › Privacidade e Segurança** e carregue em **Abrir mesmo assim**.
+4. Quando o macOS perguntar se a StageFlow pode receber ligações da rede, escolha **Permitir**.
+
+**Atualizar:** feche a StageFlow e substitua a app na pasta Aplicações. A programação, os layouts, a licença e as definições ficam guardados e mantêm-se.
+
+## Requisitos
+
+- Mac com Apple Silicon (M1 ou mais recente), com uma versão recente do macOS.
+- Para NDI: as **NDI Tools** ou o **NDI Runtime** (ndi.video).
+- Para captura de ecrã nos layouts: autorizar a StageFlow em **Privacidade e Segurança › Gravação de ecrã**.
