@@ -2,6 +2,10 @@
 
 ## StageFlow para Mac e Windows
 
+### 2.15.0
+- **Identificar um ecrã:** em **Ecrãs ligados**, o ícone de identificar faz o aparelho mostrar durante 10 segundos um ecrã amarelo com o nome e o IP. Pela rede exige PIN.
+- Numa TV com **Rodar ecrã** definido, os layouts com rotação "Automática" deixam de rodar a imagem.
+
 ### 2.14.0
 - **Procurar atualizações:** verificação ao abrir, de 6 em 6 horas e no menu **Procurar atualizações…**. Aviso na consola e no cartão Licença, com **Descarregar** e **Novidades**. A instalação continua manual: nada se instala a meio de um espetáculo.
 
@@ -40,6 +44,11 @@
 
 ## StageFlow Server TV
 
+### 1.3.0
+- **Rodar ecrã** no menu: 0°, 90°, 180° ou 270°, para TVs montadas na vertical.
+- **Identificar** nos Ecrãs ligados: ecrã amarelo com o nome e o IP.
+- O item **Atualizações** passa a chamar-se **Procurar atualizações**.
+
 ### 1.2.0
 - Nova opção **Atualizações** no menu da TV: descarrega a versão nova e abre o instalador do Android. Na primeira vez é preciso autorizar a app a instalar apps desconhecidas.
 
@@ -53,6 +62,9 @@
 - Primeira versão: servidor StageFlow numa TV Android, consola no navegador, controlo móvel com PIN, OSC, arranque com a TV e saída em ecrã inteiro.
 
 ## StageFlow TV
+
+### 1.2.0
+- **Rodar ecrã** em Opções: 0°, 90°, 180° ou 270°, para TVs montadas na vertical.
 
 ### 1.1.0
 - **Procurar atualizações** em Opções; quando há versão nova, **Atualizar** descarrega-a e abre o instalador do Android.

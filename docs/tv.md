@@ -20,6 +20,7 @@ Copie o APK para uma pen, ligue-a à TV e abra-o num gestor de ficheiros.
 - A saída também pode ser mudada **à distância**, a partir da consola ou do controlo móvel (Ecrãs ligados).
 - A app memoriza a última saída e abre-a ao iniciar. Opção para arrancar quando a TV liga.
 - Se a ligação falhar, tenta de novo sozinha e volta à saída.
+- **Rodar ecrã** (versão 1.2.0 ou mais recente): em Opções, cada OK passa ao ângulo seguinte (0°, 90°, 180°, 270°), para TVs montadas na vertical. A escolha fica memorizada.
 - **Atualizações** (versão 1.1.0 ou mais recente): em Opções, **Procurar atualizações**. Quando há versão nova, **Atualizar** descarrega-a e o Android pede confirmação.
 
 ## Requisitos

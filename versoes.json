@@ -1,31 +1,31 @@
 {
-  "atualizado": "2026-11-15",
+  "atualizado": "2026-11-16",
   "produtos": {
     "mac": {
       "nome": "StageFlow para Mac",
-      "versao": "2.14.0",
-      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.14.0/StageFlow-Mac-2.14.0.zip",
-      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.14.0"
+      "versao": "2.15.0",
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.15.0/StageFlow-Mac-2.15.0.zip",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.15.0"
     },
     "windows": {
       "nome": "StageFlow para Windows",
-      "versao": "2.14.0",
-      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.14.0/StageFlow-Windows-2.14.0.zip",
-      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.14.0"
+      "versao": "2.15.0",
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.15.0/StageFlow-Windows-2.15.0.zip",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.15.0"
     },
     "server-tv": {
       "nome": "StageFlow Server TV",
-      "versao": "1.2.0",
-      "versionCode": 4,
-      "url": "https://github.com/eventuais-software/stageflow/releases/download/server-tv-1.2.0/StageFlow-Server-TV-1.2.0.apk",
-      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/server-tv-1.2.0"
+      "versao": "1.3.0",
+      "versionCode": 5,
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/server-tv-1.3.0/StageFlow-Server-TV-1.3.0.apk",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/server-tv-1.3.0"
     },
     "tv": {
       "nome": "StageFlow TV",
-      "versao": "1.1.0",
-      "versionCode": 7,
-      "url": "https://github.com/eventuais-software/stageflow/releases/download/tv-1.1.0/StageFlow-TV-1.1.0.apk",
-      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/tv-1.1.0"
+      "versao": "1.2.0",
+      "versionCode": 8,
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/tv-1.2.0/StageFlow-TV-1.2.0.apk",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/tv-1.2.0"
     }
   }
 }

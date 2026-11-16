@@ -11,10 +11,10 @@ A StageFlow junta, num só sistema, a **programação de cada palco**, os **rel�
 
 | Aplicação | Para quê | Versão | Descarregar |
 |---|---|---|---|
-| **StageFlow para Mac** | Servidor e consola principal, saídas em ecrã e NDI | **2.14.0** | [StageFlow-Mac-2.14.0.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.14.0/StageFlow-Mac-2.14.0.zip) |
-| **StageFlow para Windows** | O mesmo que a versão Mac, em Windows 10 e 11 (versão de teste) | **2.14.0** | [StageFlow-Windows-2.14.0.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.14.0/StageFlow-Windows-2.14.0.zip) |
-| **StageFlow Server TV** | A própria TV Android é o servidor (sem computador) | **1.2.0** | [StageFlow-Server-TV-1.2.0.apk](https://github.com/eventuais-software/stageflow/releases/download/server-tv-1.2.0/StageFlow-Server-TV-1.2.0.apk) |
-| **StageFlow TV** | Mostra uma saída em ecrã inteiro numa TV Android ou Google TV | **1.1.0** | [StageFlow-TV-1.1.0.apk](https://github.com/eventuais-software/stageflow/releases/download/tv-1.1.0/StageFlow-TV-1.1.0.apk) |
+| **StageFlow para Mac** | Servidor e consola principal, saídas em ecrã e NDI | **2.15.0** | [StageFlow-Mac-2.15.0.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.15.0/StageFlow-Mac-2.15.0.zip) |
+| **StageFlow para Windows** | O mesmo que a versão Mac, em Windows 10 e 11 (versão de teste) | **2.15.0** | [StageFlow-Windows-2.15.0.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.15.0/StageFlow-Windows-2.15.0.zip) |
+| **StageFlow Server TV** | A própria TV Android é o servidor (sem computador) | **1.3.0** | [StageFlow-Server-TV-1.3.0.apk](https://github.com/eventuais-software/stageflow/releases/download/server-tv-1.3.0/StageFlow-Server-TV-1.3.0.apk) |
+| **StageFlow TV** | Mostra uma saída em ecrã inteiro numa TV Android ou Google TV | **1.2.0** | [StageFlow-TV-1.2.0.apk](https://github.com/eventuais-software/stageflow/releases/download/tv-1.2.0/StageFlow-TV-1.2.0.apk) |
 
 Todas as versões, com as notas de cada uma, estão em [Releases](https://github.com/eventuais-software/stageflow/releases). O que mudou em cada versão está no [Histórico de versões](HISTORICO.md).
 
