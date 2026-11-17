@@ -3,15 +3,15 @@
   "produtos": {
     "mac": {
       "nome": "StageFlow para Mac",
-      "versao": "2.22.0",
-      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.22.0/StageFlow-Mac-2.22.0.zip",
-      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.22.0"
+      "versao": "2.25.1",
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.25.1/StageFlow-Mac-2.25.1.zip",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.25.1"
     },
     "windows": {
       "nome": "StageFlow para Windows",
-      "versao": "2.22.0",
-      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.22.0/StageFlow-Windows-2.22.0.zip",
-      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.22.0"
+      "versao": "2.25.1",
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.25.1/StageFlow-Windows-2.25.1.zip",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.25.1"
     },
     "server-tv": {
       "nome": "StageFlow Server TV",

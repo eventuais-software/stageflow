@@ -2,6 +2,21 @@
 
 ## StageFlow para Mac e Windows
 
+### 2.25.1
+- Os botões 1080p / 720p e Low / Medium ficam com a mesma altura dos interruptores NDI e OMT; o interruptor ligado volta a verde vivo.
+
+### 2.25
+- **Saídas:** o NDI e o OMT têm cada um a sua resolução (botões 1080p / 720p ao lado de cada interruptor). A saída é desenhada na maior resolução pedida e reduzida para a outra; mudar um protocolo não interrompe o outro.
+
+### 2.24
+- **Relógio com mais de 3 palcos:** no máximo 3 palcos por linha; os seguintes passam para a linha de baixo, com a mesma largura.
+- **Esc numa saída em ecrã inteiro:** sai do ecrã inteiro e a saída continua numa janela no mesmo monitor.
+
+### 2.23
+- **Saídas OMT (Open Media Transport)** ao lado do NDI, com qualidade **Low** ou **Medium**. Não é preciso instalar nada: a biblioteca oficial do OMT (licença MIT) vai dentro da StageFlow. Mac: macOS 15 ou mais recente; Windows: x64.
+- As fontes OMT são encontradas pelo vMix, pelo OBS (plugin OMT) e por outros recetores; o nome é encurtado quando o nome do computador é comprido.
+- OSC: `/stageflow/a/omt/tecnico` (também `/backstage`, `/detalhado`) e `/stageflow/a/omt/tecnico/qualidade "low"|"medium"`.
+
 ### 2.22.0
 - **Desfazer e refazer** na consola: `Cmd+Z` / `Shift+Cmd+Z` no Mac, `Ctrl+Z` / `Ctrl+Y` no Windows, e no menu **Editar**. Desfaz alterações na Programação e no Projeto, com um aviso do que foi desfeito.
 - Os comandos de direto (atraso, modo, Seguinte, Pausa, mensagens, mira, dia em direto) não se desfazem.

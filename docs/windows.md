@@ -16,5 +16,6 @@ As mesmas funções da StageFlow para Mac, em Windows 10 e 11 de 64 bits.
 ## Notas
 
 - **NDI:** instale o **NDI Runtime** ou as **NDI Tools** (ndi.video).
+- **OMT:** não é preciso instalar nada. Permita a StageFlow na firewall (redes privadas) para os recetores a encontrarem.
 - **Fechar a consola não fecha a StageFlow:** os ecrãs, o NDI e o OSC continuam ativos. A app fica no ícone junto ao relógio (pode estar escondido na seta ^).
 - O **ID deste computador**, para a licença, aparece no cartão **Licença** da consola.
