@@ -2,6 +2,48 @@
 
 ## StageFlow para Mac e Windows
 
+### 2.21.1
+- A **interface clássica foi retirada**: a consola abre sempre na interface nova, em todos os aparelhos.
+
+### 2.21
+- A **interface nova** passa a ser a oficial e abre por defeito em todos os aparelhos. Servidor, ecrãs, OSC, licenças e formato dos projetos não mudam.
+
+### 2.20.3
+- **Relógio com 3 ou mais palcos:** relógio mais pequeno e cartões mais compactos; os cartões dos palcos ficam alinhados ao topo.
+
+### 2.20.2
+- **Backstage:** a hora de fim aparece só no evento em curso ("Termina às HH:MM"). No modo manual mostra a hora prevista de fim em vez da duração.
+
+### 2.20.1
+- **Grupos na Programação:** as linhas de um grupo ficam com a cor do grupo em fundo suave.
+
+### 2.20
+- **Ocultar linha:** o ícone do olho oculta uma linha nos ecrãs, sem a tirar da programação nem dos tempos.
+- **Marcos:** linhas sem horário nem categoria (ex.: mudar águas do palco), onde só se editam o evento e as notas. Não aparecem nos ecrãs por defeito; no editor de layouts, o elemento Lista tem a opção "Mostrar marcos".
+- **Cor dos grupos**, escolhida no cabeçalho do grupo.
+- **Mensagem para um ecrã:** em **Rede e OSC**, cada equipamento online tem um ícone para enviar uma mensagem em ecrã inteiro durante 10 segundos, com cor à escolha, quem envia e o IP.
+
+### 2.19.1
+- As linhas sem horário aparecem no Relógio da consola e nas listas dos ecrãs, com "--:--", barra branca e fundo cinzento.
+
+### 2.19
+- **Relógio** (antigo "Direto"): evento em curso e seguinte maiores, letra do palco antes do nome.
+- **Programação:** edição direta na linha, menu do tipo de evento na barra de cor, arrastar linhas (os horários voltam a encadear), **grupos** com nome e tempo total, linhas sem horário, pinta verde no dia em direto.
+- **Rede e OSC:** zona **Equipamentos online**, com a saída de cada ecrã, identificar e pré-visualização ao vivo do que está a sair.
+- **Identificar** mostra também o palco.
+
+### 2.18
+- Interface nova (beta): saídas numa linha cada, Projeto em listas limpas, Rede e OSC e Licença sem caixas.
+
+### 2.17
+- Interface nova (beta): **Programação** com seleção múltipla, soma de tempos e **Mover −5 / +5**; categoria por barra de cor com menu; Projeto com arrastar para ordenar.
+
+### 2.16
+- **Interface nova (beta)**, opcional: menu de topo por áreas (Direto, Programação, Saídas, Projeto, Rede e OSC, Licença), contagem maior e comandos com símbolos.
+
+### 2.15.1
+- **TVs Samsung:** corrigida a rotação do ecrã na StageFlow TV para Samsung.
+
 ### 2.15.0
 - **Identificar um ecrã:** em **Ecrãs ligados**, o ícone de identificar faz o aparelho mostrar durante 10 segundos um ecrã amarelo com o nome e o IP. Pela rede exige PIN.
 - Numa TV com **Rodar ecrã** definido, os layouts com rotação "Automática" deixam de rodar a imagem.

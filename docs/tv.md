@@ -17,7 +17,7 @@ Copie o APK para uma pen, ligue-a à TV e abra-o num gestor de ficheiros.
 - Ao abrir, a app procura servidores StageFlow na rede. Se não encontrar, escreva o endereço.
 - Escolha o servidor, o palco e a saída. A saída fica em ecrã inteiro e a TV não adormece.
 - **OK** ou **Voltar** abrem a lista de saídas do mesmo servidor. Um segundo Voltar leva ao ecrã inicial.
-- A saída também pode ser mudada **à distância**, a partir da consola ou do controlo móvel (Ecrãs ligados).
+- A saída também pode ser mudada **à distância**, a partir da consola (Rede e OSC › Equipamentos online) ou do controlo móvel (Ecrãs ligados).
 - A app memoriza a última saída e abre-a ao iniciar. Opção para arrancar quando a TV liga.
 - Se a ligação falhar, tenta de novo sozinha e volta à saída.
 - **Rodar ecrã** (versão 1.2.0 ou mais recente): em Opções, cada OK passa ao ângulo seguinte (0°, 90°, 180°, 270°), para TVs montadas na vertical. A escolha fica memorizada.

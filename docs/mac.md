@@ -7,7 +7,8 @@ Servidor e consola principal da StageFlow, para Macs com Apple Silicon (M1 ou ma
 - **Consola de operador:** programação por dia e por palco, modo automático ou manual, atrasos, mensagens para os ecrãs e projetos.
 - **Servidor da rede local:** os outros aparelhos abrem `http://IP-do-Mac:8080/` no navegador.
 - **Saídas:** Técnico, Backstage, Detalhado e saídas personalizadas, com editor de layout. Cada saída pode abrir numa janela, em ecrã inteiro noutro monitor ou como **fonte NDI**.
-- **Ecrãs ligados:** lista das TVs e navegadores que estão a mostrar uma saída. A saída de cada um muda-se à distância e o ícone de identificar mostra no próprio ecrã o nome e o IP, com PIN.
+- **Consola por áreas:** Relógio, Programação, Saídas, Projeto, Rede e OSC, Licença. A Programação edita-se diretamente na linha, com grupos, marcos (linhas sem horário), linhas ocultas e arrastar para reordenar.
+- **Equipamentos online** (Rede e OSC): lista das TVs e navegadores que estão a mostrar uma saída, com pré-visualização ao vivo. A saída de cada um muda-se à distância, e é possível identificar o ecrã ou enviar-lhe uma mensagem em ecrã inteiro, com PIN.
 - **Controlo móvel** no telemóvel, com PIN.
 - **OSC** para mesas de luz, som e vídeo (porta 9000).
 - **Entradas de vídeo nos layouts:** fontes NDI e captura de ecrã.
