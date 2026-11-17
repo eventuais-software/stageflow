@@ -2,6 +2,9 @@
 
 ## StageFlow para Mac e Windows
 
+### 2.25.2
+- **Procurar atualizações:** a versão nova é encontrada logo depois de publicada. A StageFlow lê o ficheiro de versões pela API do GitHub (a cópia anterior passava por uma cache que podia servir o ficheiro antigo durante algum tempo) e o botão volta sempre a perguntar ao GitHub.
+
 ### 2.25.1
 - Os botões 1080p / 720p e Low / Medium ficam com a mesma altura dos interruptores NDI e OMT; o interruptor ligado volta a verde vivo.
 
