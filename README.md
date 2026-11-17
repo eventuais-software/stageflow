@@ -11,8 +11,8 @@ A StageFlow junta, num só sistema, a **programação de cada palco**, os **rel�
 
 | Aplicação | Para quê | Versão | Descarregar |
 |---|---|---|---|
-| **StageFlow para Mac** | Servidor e consola principal, saídas em ecrã, NDI e OMT | **2.25.2** | [StageFlow-Mac-2.25.2.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.25.2/StageFlow-Mac-2.25.2.zip) |
-| **StageFlow para Windows** | O mesmo que a versão Mac, em Windows 10 e 11 (versão de teste) | **2.25.2** | [StageFlow-Windows-2.25.2.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.25.2/StageFlow-Windows-2.25.2.zip) |
+| **StageFlow para Mac** | Servidor e consola principal, saídas em ecrã, NDI e OMT | **2.25.3** | [StageFlow-Mac-2.25.3.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.25.3/StageFlow-Mac-2.25.3.zip) |
+| **StageFlow para Windows** | O mesmo que a versão Mac, em Windows 10 e 11 (versão de teste) | **2.25.3** | [StageFlow-Windows-2.25.3.zip](https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.25.3/StageFlow-Windows-2.25.3.zip) |
 | **StageFlow Server TV** | A própria TV Android é o servidor (sem computador) | **1.3.0** | [StageFlow-Server-TV-1.3.0.apk](https://github.com/eventuais-software/stageflow/releases/download/server-tv-1.3.0/StageFlow-Server-TV-1.3.0.apk) |
 | **StageFlow TV** | Mostra uma saída em ecrã inteiro numa TV Android ou Google TV | **1.2.0** | [StageFlow-TV-1.2.0.apk](https://github.com/eventuais-software/stageflow/releases/download/tv-1.2.0/StageFlow-TV-1.2.0.apk) |
 

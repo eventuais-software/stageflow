@@ -2,6 +2,9 @@
 
 ## StageFlow para Mac e Windows
 
+### 2.25.3
+- **Procurar atualizações:** lê o ficheiro de versões nas duas cópias do GitHub (API e "raw") e fica com a versão mais recente, para encontrar a versão nova logo depois de publicada mesmo que uma das cópias ainda esteja em cache.
+
 ### 2.25.2
 - **Procurar atualizações:** a versão nova é encontrada logo depois de publicada. A StageFlow lê o ficheiro de versões pela API do GitHub (a cópia anterior passava por uma cache que podia servir o ficheiro antigo durante algum tempo) e o botão volta sempre a perguntar ao GitHub.
 
