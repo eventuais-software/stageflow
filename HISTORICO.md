@@ -2,6 +2,11 @@
 
 ## StageFlow para Mac e Windows
 
+### 2.22.0
+- **Desfazer e refazer** na consola: `Cmd+Z` / `Shift+Cmd+Z` no Mac, `Ctrl+Z` / `Ctrl+Y` no Windows, e no menu **Editar**. Desfaz alterações na Programação e no Projeto, com um aviso do que foi desfeito.
+- Os comandos de direto (atraso, modo, Seguinte, Pausa, mensagens, mira, dia em direto) não se desfazem.
+- Dentro de um campo de texto, o atalho desfaz só a escrita. Se outro aparelho alterou o projeto entretanto, pede confirmação.
+
 ### 2.21.1
 - A **interface clássica foi retirada**: a consola abre sempre na interface nova, em todos os aparelhos.
 
