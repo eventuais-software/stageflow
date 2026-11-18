@@ -123,6 +123,11 @@
 
 ## StageFlow Server TV
 
+### 1.4.0
+- **Servidor, consola e layouts da StageFlow 2.26:** os ecrãs Técnico, Backstage e Detalhado e o backoffice ficam iguais aos da versão de Mac e Windows (sem NDI nem OMT).
+- **Importar projeto da PEN USB** no menu da TV: lista os ficheiros `.stageflow` da raiz da PEN e da pasta `StageFlow`, pede confirmação (com opção de guardar primeiro o projeto atual) e guarda o importado em Projetos.
+- Em Android 11 ou mais recente, na primeira vez, é preciso autorizar **Acesso a todos os ficheiros** (botão no próprio menu).
+
 ### 1.3.0
 - **Rodar ecrã** no menu: 0°, 90°, 180° ou 270°, para TVs montadas na vertical.
 - **Identificar** nos Ecrãs ligados: ecrã amarelo com o nome e o IP.

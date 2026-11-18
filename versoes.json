@@ -15,10 +15,10 @@
     },
     "server-tv": {
       "nome": "StageFlow Server TV",
-      "versao": "1.3.0",
-      "versionCode": 5,
-      "url": "https://github.com/eventuais-software/stageflow/releases/download/server-tv-1.3.0/StageFlow-Server-TV-1.3.0.apk",
-      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/server-tv-1.3.0"
+      "versao": "1.4.0",
+      "versionCode": 6,
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/server-tv-1.4.0/StageFlow-Server-TV-1.4.0.apk",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/server-tv-1.4.0"
     },
     "tv": {
       "nome": "StageFlow TV",
