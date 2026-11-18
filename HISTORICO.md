@@ -2,6 +2,12 @@
 
 ## StageFlow para Mac e Windows
 
+### 2.26.0
+- **Ecrã técnico:** o tipo do evento seguinte aparece por baixo do nome, na cor da categoria.
+- **Ecrã backstage:** o nome do projeto aparece no topo, pequeno; o nome do palco fica por baixo, com mais destaque.
+- **Editor de layouts:** desfazer e refazer (Cmd+Z / ⇧Cmd+Z; Ctrl+Z / Ctrl+Y no Windows); novos elementos «A seguir: tipo» e «Nome do projeto»; entrada de vídeo OMT com procura de fontes na rede.
+- Layouts guardados iguais ao padrão passam automaticamente para o novo.
+
 ### 2.25.4
 - **Programação, menu de categoria:** nas últimas linhas abre para cima quando não cabe por baixo; com muitas categorias ganha scroll.
 - **Data do dia:** escreve-se toda no teclado, incluindo o ano.

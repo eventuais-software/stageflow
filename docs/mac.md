@@ -11,7 +11,7 @@ Servidor e consola principal da StageFlow, para Macs com Apple Silicon (M1 ou ma
 - **Equipamentos online** (Rede e OSC): lista das TVs e navegadores que estão a mostrar uma saída, com pré-visualização ao vivo. A saída de cada um muda-se à distância, e é possível identificar o ecrã ou enviar-lhe uma mensagem em ecrã inteiro, com PIN.
 - **Controlo móvel** no telemóvel, com PIN.
 - **OSC** para mesas de luz, som e vídeo (porta 9000).
-- **Entradas de vídeo nos layouts:** fontes NDI e captura de ecrã.
+- **Entradas de vídeo nos layouts:** fontes NDI, OMT, câmaras ou placas de captura e captura de ecrã.
 
 ## Instalar
 
