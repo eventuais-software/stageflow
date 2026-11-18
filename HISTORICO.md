@@ -2,6 +2,11 @@
 
 ## StageFlow para Mac e Windows
 
+### 2.25.4
+- **Programação, menu de categoria:** nas últimas linhas abre para cima quando não cabe por baixo; com muitas categorias ganha scroll.
+- **Data do dia:** escreve-se toda no teclado, incluindo o ano.
+- **Datas por defeito:** num projeto novo, o Dia 1 fica com a data de hoje; cada dia acrescentado ou duplicado fica com o dia a seguir ao último. A data pode sempre ser alterada.
+
 ### 2.25.3
 - **Procurar atualizações:** lê o ficheiro de versões nas duas cópias do GitHub (API e "raw") e fica com a versão mais recente, para encontrar a versão nova logo depois de publicada mesmo que uma das cópias ainda esteja em cache.
 

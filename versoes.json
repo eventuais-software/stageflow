@@ -1,17 +1,17 @@
 {
-  "atualizado": "2026-11-17",
+  "atualizado": "2026-11-18",
   "produtos": {
     "mac": {
       "nome": "StageFlow para Mac",
-      "versao": "2.25.3",
-      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.25.3/StageFlow-Mac-2.25.3.zip",
-      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.25.3"
+      "versao": "2.25.4",
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.25.4/StageFlow-Mac-2.25.4.zip",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.25.4"
     },
     "windows": {
       "nome": "StageFlow para Windows",
-      "versao": "2.25.3",
-      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.25.3/StageFlow-Windows-2.25.3.zip",
-      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.25.3"
+      "versao": "2.25.4",
+      "url": "https://github.com/eventuais-software/stageflow/releases/download/stageflow-2.25.4/StageFlow-Windows-2.25.4.zip",
+      "notas": "https://github.com/eventuais-software/stageflow/releases/tag/stageflow-2.25.4"
     },
     "server-tv": {
       "nome": "StageFlow Server TV",
