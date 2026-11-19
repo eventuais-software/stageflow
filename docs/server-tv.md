@@ -34,7 +34,7 @@ A StageFlow a correr **dentro de uma TV Android**: a própria TV é o servidor, 
 | Rodar ecrã | OK passa ao ângulo seguinte (0°, 90°, 180°, 270°). O menu e a saída rodam juntos. Numa TV vertical use o Backstage ou uma saída vertical. |
 | Arrancar com a TV | Ao ligar a TV, arranca o servidor e abre a StageFlow. |
 | Abrir logo em ecrã inteiro | Ao abrir, mostra logo a saída escolhida. |
-| Importar projeto da PEN USB | Lista os projetos `.stageflow` da PEN (raiz ou pasta `StageFlow`) e importa o escolhido, com confirmação. Na primeira vez, em Android 11+, autorize **Acesso a todos os ficheiros** no botão que aparece. |
+| Importar projeto da PEN USB | Lista os projetos `.stageflow` da PEN (raiz ou pasta `StageFlow`) e importa o escolhido, com confirmação. Na primeira vez, em Android 11+, autorize **Acesso a todos os ficheiros** no botão que aparece. As imagens dos layouts seguem no ficheiro (StageFlow 2.26.1 ou mais recente). |
 | PIN | Define o PIN do controlo móvel, com o teclado numérico do ecrã ou do comando. |
 | Licença | Mostra o ID da TV e o estado da licença. |
 | Procurar atualizações | Mostra a versão instalada; se houver uma nova, **Atualizar** descarrega-a e o Android pede confirmação. |

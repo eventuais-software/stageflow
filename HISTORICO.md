@@ -2,6 +2,10 @@
 
 ## StageFlow para Mac e Windows
 
+### 2.26.1
+- **Projetos com imagens:** o ficheiro `.stageflow` exportado leva dentro as imagens usadas nos layouts (logótipos, fundos), que são repostas ao importar noutro computador ou na Server TV. Imagens danificadas no ficheiro são ignoradas.
+- Ficheiros exportados por versões anteriores continuam a importar, mas sem imagens.
+
 ### 2.26.0
 - **Ecrã técnico:** o tipo do evento seguinte aparece por baixo do nome, na cor da categoria.
 - **Ecrã backstage:** o nome do projeto aparece no topo, pequeno; o nome do palco fica por baixo, com mais destaque.
@@ -122,6 +126,10 @@
 - **Captura de ecrã** e **entradas NDI** nos layouts. Layout predefinido "Captura + relógio".
 
 ## StageFlow Server TV
+
+### 1.4.1
+- **Projetos com imagens:** importa os `.stageflow` da StageFlow 2.26.1 com as imagens dos layouts, pela PEN USB ou pelo browser.
+- Importar da PEN aceita ficheiros até 200 MB (antes 20 MB).
 
 ### 1.4.0
 - **Servidor, consola e layouts da StageFlow 2.26:** os ecrãs Técnico, Backstage e Detalhado e o backoffice ficam iguais aos da versão de Mac e Windows (sem NDI nem OMT).
